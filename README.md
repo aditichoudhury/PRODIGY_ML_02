@@ -1,6 +1,5 @@
-# PRODIGY_ML_02
 
-This project implements a K-means clustering algorithm to group customers of a retail store based on their purchase history.
+ project implements a K-means clustering algorithm to group customers of a retail store based on their purchase history.
 
 ## Project Structure
 
